@@ -1,0 +1,74 @@
+# 📊 Power BI & Excel Project: Super Store & Bike Sales Analysis  
+
+## 📌 Project Overview  
+This project demonstrates **data analytics dashboards** created using both **Power BI** and **Excel**.  
+The goal is to analyze sales and profit performance from multiple perspectives.  
+
+It includes:  
+- ✅ **Power BI Dashboard** → Super Store Profit & Revenue Insights  
+- ✅ **Excel Dashboard** → Bike Sales Performance  
+
+---
+
+## 📂 Project Files  
+- **Excel Dataset** → `DilgebaExcel Project Dataset1.xlsx`  
+- **Power BI Report** → `my power project1.pbix`  
+- **Screenshots** → `Screenshot (1).png` (Power BI), Excel dashboard images (optional)  
+- **README** → Project documentation  
+
+---
+
+## 🚀 How to Use  
+### 🔹 Power BI Report  
+1. Download the `.pbix` file.  
+2. Open in **Power BI Desktop**.  
+3. If required, reconnect the dataset (`.xlsx`).  
+4. Interact with filters and visuals for deeper insights.  
+
+### 🔹 Excel Dashboard  
+1. Open the `.xlsx` file in **Excel**.  
+2. Explore the interactive charts, slicers, and KPIs.  
+3. Review the bike sales trends, revenue contribution, and customer insights.  
+
+---
+
+## 🖼️ Dashboard Previews  
+
+### Power BI Dashboard – Super Store Profit Analysis  
+![Power BI Dashboard](Screenshot%20(1).png)  
+
+**Key Highlights:**  
+- Total Profit → 32M  
+- Total Revenue → 85M  
+- Order Quantity → 1M  
+- Profit by Country, State, Sub-Category, and Product Category  
+- Time-based trends of profit  
+
+---
+
+### Excel Dashboard – Bike Sales Performance  
+*(`Excel_Bike_Sales.png`)*  
+
+**Key Highlights:**  
+- Revenue trends by product and region  
+- Profitability analysis by category  
+- Slicer-enabled filters for year, product, and location  
+- Clear visual storytelling of bike sales data  
+
+---
+
+## 💡 Insights from the Dashboards  
+- 📈 **Revenue Growth** → Identified trends across time and geography  
+- 🌍 **Country Contribution** → USA leads in profit contribution  
+- 🛒 **Product Categories** → Bikes dominate overall sales and profits  
+- 🚴 **Bike Sales Analysis** → Excel dashboard shows deeper product-level performance and seasonal sales patterns  
+
+---
+
+## 📜 License  
+This project is open-source and available under the **MIT License**.  
+You are free to use, share, and modify it.  
+
+---
+
+✨ Created with passion for **Power BI, Excel & Data Analytics**.  
