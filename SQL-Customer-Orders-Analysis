@@ -1,0 +1,9 @@
+sql-customer-orders-analysis/
+│── data/
+│   └── schema_diagram.png   # (optional ERD diagram of tables)
+│
+│── queries/
+│   ├── create_tables.sql    # table creation scripts (if available)
+│   ├── sample_queries.sql   # your JOIN, GROUP BY, HAVING, UNION queries
+│
+│── README.md                # project documentation
