@@ -1,30 +1,27 @@
-# 📊 Power BI & Excel Project: Super Store & Bike Sales Analysis  
+# 📊 Power BI & Excel Sales Analytics Dashboard
 
-## 📌 Project Overview  
-This project demonstrates **data analytics dashboards** created using both **Power BI** and **Excel**.  
-The goal is to analyze sales and profit performance from multiple perspectives.  
+## 📌 Project Overview
 
-It includes:  
-- ✅ **Power BI Dashboard** → Super Store Profit & Revenue Insights  
-- ✅ **Excel Dashboard** → Bike Sales Performance  
+An end-to-end data analytics project featuring two interactive dashboards built with **Power BI** and **Excel**, 
+analyzing sales and profit performance across multiple dimensions — country, product category, time, and region.
 
----
-
-## 📂 Project Files  
-- **Excel Dataset** → `DilgebaExcel Project Dataset1.xlsx`  
-- **Power BI Report** → `my power project1.pbix`  
-- **Screenshots** → `Screenshot (1).png` (Power BI), Excel dashboard images (optional)  
-- **README** → Project documentation  
+| Dashboard | Tool | Dataset |
+|---|---|---|
+| Super Store Profit & Revenue Analysis | Power BI | Superstore Dataset |
+| Bike Sales Performance Analysis | Excel | Bike Sales Dataset |
 
 ---
 
-## 🚀 How to Use  
-### 🔹 Power BI Report  
-1. Download the `.pbix` file.  
-2. Open in **Power BI Desktop**.  
-3. If required, reconnect the dataset (`.xlsx`).  
-4. Interact with filters and visuals for deeper insights.  
+## 🎯 Objectives
 
+- Analyze revenue and profit trends across countries and product categories
+- Identify top-performing regions, products, and time periods
+- Deliver interactive, executive-ready dashboards for data-driven decisions
+- Demonstrate proficiency in Power BI, DAX, Excel, and data visualization
+
+---
+
+## 📂 Project Files
 ### 🔹 Excel Dashboard  
 1. Open the `.xlsx` file in **Excel**.  
 2. Explore the interactive charts, slicers, and KPIs.  
@@ -32,43 +29,85 @@ It includes:
 
 ---
 
-## 🖼️ Dashboard Previews  
+---
 
-### Power BI Dashboard – Super Store Profit Analysis  
-![Power BI Dashboard](Screenshot%20(1).png)  
+## 🖼️ Dashboard Previews
 
-**Key Highlights:**  
-- Total Profit → 32M  
-- Total Revenue → 85M  
-- Order Quantity → 1M  
-- Profit by Country, State, Sub-Category, and Product Category  
-- Time-based trends of profit  
+### Power BI — Super Store Profit & Revenue Analysis
+
+![Power BI Dashboard](Screenshot%20(1).png)
+
+**Key KPIs:**
+
+| Metric | Value |
+|---|---|
+| Total Revenue | $85M |
+| Total Profit | $32M |
+| Order Quantity | 1M |
+| Profit Margin | 37.8% |
+
+**Features:**
+- Profit breakdown by Country, State, Sub-Category & Product Category
+- Time-based revenue and profit trend analysis
+- Interactive slicers for year and region filtering
+- Dynamic tooltips for deeper on-hover insights
 
 ---
 
-### Excel Dashboard – Bike Sales Performance  
-*(`Excel_Bike_Sales.png`)*  
+### Excel — Bike Sales Performance Analysis
 
-**Key Highlights:**  
-- Revenue trends by product and region  
-- Profitability analysis by category  
-- Slicer-enabled filters for year, product, and location  
-- Clear visual storytelling of bike sales data  
-
----
-
-## 💡 Insights from the Dashboards  
-- 📈 **Revenue Growth** → Identified trends across time and geography  
-- 🌍 **Country Contribution** → USA leads in profit contribution  
-- 🛒 **Product Categories** → Bikes dominate overall sales and profits  
-- 🚴 **Bike Sales Analysis** → Excel dashboard shows deeper product-level performance and seasonal sales patterns  
+**Key KPIs:**
+- Revenue trends by product and region
+- Profitability analysis by category
+- Seasonal sales patterns and year-over-year comparison
+- Slicer-enabled filters for year, product, and location
 
 ---
 
-## 📜 License  
-This project is open-source and available under the **MIT License**.  
-You are free to use, share, and modify it.  
+## 💡 Key Business Insights
+
+- 📈 **Revenue Growth** — Consistent upward trend identified across key markets from 2011 to 2016
+- 🌍 **Market Leadership** — USA leads all countries in total profit contribution at $11M
+- 🚲 **Product Dominance** — Bikes account for ~64% of total profit, making them the core revenue driver
+- 🛒 **Category Performance** — Accessories and Clothing contribute supporting revenue streams worth investing in
+- 📅 **Seasonal Patterns** — Excel dashboard reveals peak sales periods and slow seasons for strategic inventory planning
 
 ---
 
-✨ Created with passion for **Power BI, Excel & Data Analytics**.  
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Power BI Desktop | Dashboard development & visualization |
+| DAX | Custom KPI measures & calculations |
+| Power Query | Data cleaning & transformation |
+| Microsoft Excel | Interactive dashboard & pivot analysis |
+| SQL | Data exploration & validation |
+
+---
+
+## 🚀 How to Use
+
+### Power BI Dashboard
+1. Download `my power project1.pbix`
+2. Open in **Power BI Desktop** (free download from Microsoft)
+3. If prompted, reconnect to `DilgebaExcel Project Dataset1.xlsx`
+4. Use slicers and filters to explore the data interactively
+
+### Excel Dashboard
+1. Open `DilgebaExcel Project Dataset1.xlsx` in **Microsoft Excel**
+2. Navigate to the Dashboard sheet
+3. Use the slicers to filter by year, product, and location
+4. Review the charts and KPI cards for insights
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**.
+You are free to use, modify, and share it with attribution.
+
+---
+
+*Built with passion for Power BI, Excel & Data Analytics*
+*— Connecting raw data to real business decisions*
